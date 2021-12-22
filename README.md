@@ -8,7 +8,7 @@
 
 
 ## Languages:
-[<img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg">]
+<img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg">
 <img alt="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/java/java-original.svg">
 <img alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
