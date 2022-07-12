@@ -18,7 +18,7 @@
   <img alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </p>
 
-## Connect with me:
+<!-- ## Connect with me:
 [<img align="left" alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg">][email]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
@@ -27,3 +27,4 @@
 [email]: mailto:tmansil1@swarthmore.edu 
 [linkedin]: https://www.linkedin.com/in/theron-imanol-mansilla-b47a95175/
 
+ -->
