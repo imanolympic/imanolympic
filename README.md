@@ -2,7 +2,7 @@
 
 ## Currently a Student, Developer, and aspiring MBA Candidate!
 
-- 📚 I amstudying Computer Science & Math @ Swarthmore College
+- 📚 I am studying Computer Science & Math @ Swarthmore College
 
 - 🔭 My best languages are JavaScript and Python
 
