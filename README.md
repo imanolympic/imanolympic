@@ -1,8 +1,8 @@
 # Hi there, I'm Theron 👋
 
-## I'm a currently a Student, Developer, and aspiring MBA Candidate!
+## Currently a Student, Developer, and aspiring MBA Candidate!
 
-- 📚 I'm studying Computer Science & Math @ Swarthmore College
+- 📚 I amstudying Computer Science & Math @ Swarthmore College
 
 - 🔭 My best languages are JavaScript and Python
 
