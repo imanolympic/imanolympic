@@ -6,7 +6,7 @@
 
 - 🔭 My best languages are TypeScript and Python
 
-- ⚙️ I am currently an SDE intern @ Amazon Web Services
+- ⚙️ I am currently an SDE intern @ Mind & Match and have interned previously at AWS
 
 
 ## Languages:
