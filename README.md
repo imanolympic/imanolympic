@@ -4,7 +4,7 @@
 
 - 📚 I am studying Computer Science & Math @ Swarthmore College
 
-- 🔭 My best languages are JavaScript and Python
+- 🔭 My best languages are TypeScript and Python
 
 - ⚙️ I am currently an SDE intern @ Amazon Web Services
 
