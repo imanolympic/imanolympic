@@ -1,12 +1,12 @@
 # Hi there, I'm Theron 👋
 
-## Currently a Student, Developer, and aspiring MBA Candidate!
+## I am fullstack developer that loves React.
 
 - 📚 I am studying Computer Science & Math @ Swarthmore College
 
 - 🔭 My best languages are TypeScript and Python
 
-- ⚙️ I am currently an SDE intern @ Mind & Match and have interned previously at AWS
+- ⚙️ I am currently an SDE intern @ Gavel
 
 
 ## Languages:
