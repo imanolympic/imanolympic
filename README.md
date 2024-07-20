@@ -1,12 +1,12 @@
 # Hi there, I'm Theron 👋
 
-## I am fullstack developer that loves React.
+## I am a fullstack developer that loves React.
 
-- 📚 I am studying Computer Science & Math @ Swarthmore College
+- 📚 I studied Computer Science & Math @ Swarthmore College
 
 - 🔭 My best languages are TypeScript and Python
 
-- ⚙️ I am currently an SDE intern @ Gavel
+- ⚙️ I am currently an SDE @ Gavel
 
 
 ## Languages:
