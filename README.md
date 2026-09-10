@@ -1,1 +1,1 @@
-AI @ Relativity
+AI @ RELATIVITY
